@@ -2,7 +2,6 @@
 import tkinter as tk
 import random
 import threading
-from playsound import playsound
 import pygame
 
 FAMILY_EMOJIS = {

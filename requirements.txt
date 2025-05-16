@@ -1,0 +1,6 @@
+# Fichier requirements.txt pour Seven_Families – Jeu des 7 familles Emoji
+
+pygame>=2.0
+playsound>=1.2.2
+
+# Remarque : Tkinter est inclus par défaut avec Python 3 (pas besoin d'installation).
